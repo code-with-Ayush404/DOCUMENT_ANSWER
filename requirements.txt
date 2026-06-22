@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+pypdf
+pymupdf
+docx2txt
+beautifulsoup4
+sentence-transformers
+torch
+transformers
+huggingface-hub
+torchvision
